@@ -1,0 +1,7 @@
+.layout {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  gap: 2rem;
+
+  padding-top: 1rem;
+}
